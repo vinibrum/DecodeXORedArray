@@ -1,3 +1,7 @@
+// Source : https://leetcode.com/problems/decode-xored-array/
+// Author : Vinícius Brum
+// Date   : 31-01-2021
+
 #include <stdio.h>
 #include <stdlib.h>
 
